@@ -11,4 +11,5 @@ Utility to backup your Google Drive data to Micosoft OneDrive
  
  ## Dependencies
 To install the dependencies run:
-python3 -m pip install google-api-python-client==1.7.11 google-auth==1.11.0 google-auth-httplib2==0.0.3 google-auth-oauthlib==0.4.1
+
+<code>python3 -m pip install google-api-python-client==1.7.11 google-auth==1.11.0 google-auth-httplib2==0.0.3 google-auth-oauthlib==0.4.1<code>
